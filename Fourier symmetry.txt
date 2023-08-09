@@ -1,0 +1,15 @@
+
+
+EVEN Symmetry:
+V(-t)= V(t)
+bn = 0 for all n
+
+Odd Symmetry:
+v(-t) = -v(t)
+an = 0
+a0 = 0 for all n
+
+Half way Symmetry
+v(t-pi/2)=-v(t);
+v(t+pi/2)= -v(t)
+an,bn = 0 for evene n
